@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tung Pham, based in Ho Chi Minh
 - 👀 I’m interested in ReactJS / NextJS / VueJS, Laravel and WordPress
-- 🌱 I’m currently learning ReactJS, Laravel and WordPress
+- 🌱 I’m currently learning ReactJS / NextJS / VueJS, Laravel and WordPress
 - 💞️ I’m looking to collaborate on Freelance projects
 - 📫 You can reach me at tung.42@gmail.com
 
